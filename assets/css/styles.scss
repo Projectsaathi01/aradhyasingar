@@ -1,0 +1,176 @@
+p{
+    font-family: sans-serif;
+}
+
+.navbar{
+    .navbar-style{
+        ul{
+            li{
+                a{
+                    text-transform: uppercase;
+                    font-weight: bold;
+                }
+            }
+        }
+
+    }
+    .container{
+        .brand-deco
+        {
+            font-weight: bold;
+            font-family: monospace;
+            font-size: 32px; 
+            &:hover{
+                color: #8692a8;
+            }
+        }
+    }
+}
+
+
+.container{
+    .services_title
+    {
+        text-align: center;
+        max-width: 720px;
+        margin: 45px auto 48px;
+        h3{
+            font-size: xx-large;
+            font-style: initial;
+            font-weight: 600;
+            font-variant: petite-caps;
+        }
+    }
+
+    .row{
+        .services_deco
+        {
+            text-align: center;
+            padding-top: 100px;
+            padding-left: 30px;
+            padding-right: 30px;
+            h4{
+                padding: 15px;
+                color: black;
+                font-weight: 600;
+                font-family: georgia;
+                font-variant: small-caps;
+            }
+        }
+        .service-border {
+            border: 2px solid #eeeeee;
+            margin-bottom: 30px;
+            background-color: whitesmoke;
+        }
+    }
+
+// css for our products
+    .product-title
+    {
+        text-align: center;
+        padding-top: 45px;
+         padding-left: 30px;
+        padding-right: 30px;
+        h3{
+            font-size: xx-large;
+            font-style: initial;
+            font-weight: 600;
+            font-variant: small-caps;
+        }
+    }
+    .row{
+        .product-deco
+        {
+            text-align: center;
+            padding-top: 60px;
+            padding-left: 30px;
+            padding-right: 30px;
+            h4{
+                padding: 15px;
+                color: black;
+                font-weight: 600;
+                font-family: georgia;
+                font-variant: small-caps;
+            }
+        }
+        .product-border {
+            border: 1px solid #eeeeee;
+            margin-bottom: 30px;
+            background-color: whitesmoke;            
+        }
+
+
+    }
+
+    .findus-title{
+        text-align: center;
+        margin-top: 50px;
+        h4{
+            font-size: xx-large;
+            font-variant: petite-caps;
+            font-weight: 700;
+        }
+    }
+}
+
+
+.footer{
+    background-color: grey;
+}
+
+
+/*social media*/
+
+/* Style all font awesome icons */
+.fa {
+  padding: 20px;
+  /*font-size: 30px;*/
+  font-size: -webkit-xxx-large;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+/*.service-background {
+  background-color: ivory;
+}
+
+*/
+
+
+
+
+
+
+
+
+
+.footer-area {
+    background: #222222;
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
+.social-icon img{
+    max-width: 40px;
+}

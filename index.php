@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>A Plus Engineering Pvt. Ltd.</title>
+	<title>Rana Printing</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 	<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -14,7 +14,7 @@
 	<div class="navbar navbar-expand-lg navbar-light bg-light">
 		<div class="container">
         <link rel="icon" href="assets/img/aplus.png" type="image/png">
-			<a href="#" class="navbar-brand brand-deco"> A Plus Engineering</a>
+			<a href="#" class="navbar-brand brand-deco">Rana Printing</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
@@ -44,10 +44,10 @@
 		      <img class="d-block w-100" src="assets/img/a.png" alt="First slide">
 		    </div>
 		    <div class="carousel-item">
-		      <img class="d-block w-100" src="assets/img/we.png" alt="Second slide">
+		      <img class="d-block w-100" src="assets/img/services.png" alt="Second slide">
 		    </div>
 		    <div class="carousel-item">
-		      <img class="d-block w-100" src="assets/img/back3.png" alt="Third slide">
+		      <img class="d-block w-100" src="assets/img/address.png" alt="Third slide">
 		    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
@@ -68,21 +68,16 @@
 		<div class="services_title">
 			<h3 id="services">Our Services</h3>
 			<hr>
-			<p>We offers different service like home construction, 
-			design custom product etc</p>
+			
 		</div>
 
 		<div class="row">
 			
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<div class="services-item services_deco service-border">
-						<img src="assets/img/autoparts.png" alt="Service First" style="max-height: 80px;">
-						<a href="#"><h4>Design Autoparts</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
+						<img src="assets/img/vector.png" alt="Service First" style="max-height: 80px;">
+						<a href="#"><h4>Graphics Design</h4></a>
+						<p>We Offer Logo, Banner, ID Card, Flex & other graphics design related work.</p>
 					</div>
 				</div>
 			
@@ -90,128 +85,43 @@
 			
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4" >
 					<div class="services-item services_deco service-border">
-						<img src="assets/img/medical.png" alt="Service First" style="max-height: 80px;">
-						<a href=""><h4>Medical Furniture</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
+						<img src="assets/img/keyboard.png" alt="Service First" style="max-height: 80px;">
+						<a href=""><h4>Content Typing</h4></a>
+						<p>We offer Content Writing & typing service in English and Nepali.</p>
 					</div>
 				</div>
 			
 			<!-- 3rd service -->
 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 				<div class="services-item services_deco service-border">
-					<img src="assets/img/metal.png" alt="Service First" style="max-height: 80px;">
-					<a href=""><h4>Metal Furniture</h4></a>
-					<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					</p>
+					<img src="assets/img/print.png" alt="Service First" style="max-height: 80px;">
+					<a href=""><h4>Printing</h4></a>
+					<p>We offer printing on Mobile Cases, Cup, Tile, T-Shirts & other garment items.</p>
 				</div>
 			</div>
 
 		</div>
 
-		<!-- second row -->
 
-		<div class="row service-padding">
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="services-item services_deco service-border">
-						<img src="assets/img/truss.png" alt="Service First" style="max-height: 80px;">
-						<a href="#"><h4>Truss & Metal Structure</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt mollit anim id est laborum.
-						</p>
-					</div>
-				</div>
-			
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="services-item services_deco service-border">
-						<img src="assets/img/welder.png" alt="Service First" style="max-height: 80px;">
-						<a href=""><h4>Cutting & Weilding</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-					</div>
-				</div>
-			
-			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-				<div class="services-item services_deco service-border">
-					<img src="assets/img/threading.png" alt="Service First" style="max-height: 80px;" >
-					<a href=""><h4>Threading</h4></a>
-					<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-					</p>
-				</div>
-			</div>
-
-		</div>
 
 	</div>
 
 <!-- products -->
 	<div class="container">
 		<div class="product-title">
-			<h3 id="product">Featured Product</h3>
+			<h3 id="product"> Our Products</h3>
 			<hr>
-			<p>We have different products like home construction, 
-			design custom product etproduct etproduct etproduct etc</p>
 		</div>
 
 		<div class="row item-padding">
 			<!-- 1st product  -->
 				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<div class="product-deco product-border">
-						<img src="assets/img/tractor.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Tractor Hood</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md" type="button" data-toggle="modal" data-target="#ModalCarousel">View</button>
-						<!-- modal -->
-							<div class="modal fade" id="ModalCarousel" tabindex="-1" role="dialog" aria-labelledby="ModalCarouselLabel">
-                <div class="modal-dialog" role="document">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button>
-                          <h4 class="modal-title" id="myModalLabel">Tractor Hood</h4>
-                    </div>
-                    	
-                    	<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-						  <div class="carousel-inner">
-						    <div class="carousel-item active">
-						      <img class="d-block w-100" src="assets/img/hood1.jpg" alt="First slide">
-						    </div>
-						    <div class="carousel-item">
-						      <img class="d-block w-100" src="assets/img/hood2.jpg" alt="Second slide">
-						    </div>
-						  </div>
-						  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-						    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-						    <span class="sr-only">Previous</span>
-						  </a>
-						  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-						    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-						    <span class="sr-only">Next</span>
-						  </a>
-						</div>
-
-                  </div>
-                </div>
-              </div>
+						<img src="assets/img/phone-case.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
+						<a href=""><h4>Phone Cases</h4></a>
+						<p>We provide Phone Cases of different brands with custom graphics & also offer customer's design on cases.</p>
+						
+				
 						<!-- modal end -->
 
 					</div>
@@ -220,15 +130,9 @@
 			<!-- 2nd product -->
 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<div class="product-deco product-border">
-						<img src="assets/img/hand-pump.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Hand Pump Items</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
+						<img src="assets/img/tshirt.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
+						<a href=""><h4>T-Shirts & Hood</h4></a>
+						<p>We provide T-Shirts & Hood having your own design and we have partner of Garment Productions too.</p>
 					</div>
 				</div>
 				
@@ -236,161 +140,22 @@
 			<!-- 3rd product -->
 			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 					<div class="product-deco product-border">
-						<img src="assets/img/bed.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Domestic Beds</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
+						<img src="assets/img/gift.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
+						<a href=""><h4>Gift Items</h4></a>
+						<p>We provide Gift Itmes like Photo Frames, Trophy, Medal & Shield and print 3D things as per customer's order.</p>
 
 					</div>
 			</div>
 
 		</div>
 
-		<!-- second row -->
-		<div class="row item-padding">
-			<!-- 4 product  -->
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border">
-						<img src="assets/img/pipes.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Tubell Parts</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-				</div>
-			
-			<!-- 5 product -->
-			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border">
-						<img src="assets/img/tractorr.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Hood Clothes</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-				</div>
-				
-			
-			<!-- 6 product -->
-			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border">
-						<img src="assets/img/phone-receiver.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Telecome Battery Rack</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-			</div>
-		</div>
-		<!-- third row -->
-		<div class="row item-padding">
-			<!-- 7 product  -->
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border">
-						<img src="assets/img/product/cctv.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>CCTV Camera Stand</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-				</div>
-			
-			<!-- 8 product -->
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border">
-						<img src="assets/img/product/stall.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Vendor Trolley</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa qui officia deserunt mollit anim id est laborum
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-				</div>
-			
-			<!-- 9 product -->
-			<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="product-deco product-border" >
-						<img src="assets/img/product/pipe.png" alt="Service First" class="img-fluid" style="max-height: 80px;">
-						<a href=""><h4>Galvanigation</h4></a>
-						<p>strud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-						consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-						cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-						proident, sunt in culpa  officia deserunt mollit anim id est laborum.
-						</p>
-						<button class="btn btn-info btn-md">View</button>
-
-					</div>
-			</div>
-		</div>
+	
+	
 
 	</div>
 
 
-	<!-- staff section -->
-	<div class="container">
-		<div class="staff-title">
-			<h3>Our Staff</h3>
-			<hr>
-		</div>
-
-		<div class="row">
-			<!-- 1st product  -->
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="team_item staff-deco">
-						<img src="assets/img/team/team-1.jpg" alt="Service First" class="img-fluid">
-						<h4>Er. Rohit Rana </h4>
-						<p>Managing Director</p>
-
-					</div>
-				</div>
-			
-			<!-- 2nd staff -->
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="team_item staff-deco">
-						<img src="assets/img/team/team-2.jpg" alt="Service First" class="img-fluid">
-						<h4>Ram Chaudhary</h4>
-						<p>Marketing Manager</p>
-					</div>
-				</div>
-			
-			<!-- 3rd product -->
-			
-				<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-					<div class="team_item staff-deco">
-						<img src="assets/img/team/team-3.jpg" alt="Service First" class="img-fluid">
-						<h4>Deniel Cheng</h4>
-						<p>China's Vendor</p>
-					</div>
-				</div>
-			
-		</div>
-	</div>
+	
 
 	<!-- social media for -->
 
@@ -455,9 +220,9 @@
 			<div class="col-lg-6" style="color: white;">
 				<address>
 					<h3>Contact Us</h3>
-					<a mailto="aplus@gmail.com">aplus@gmail.com</a>
-					<p class="postal-address"> 10900 Dhangadhi <br> Kailali, Nepal </p>
-					<p>Phone Number: 091 - 521488</p>
+					<a mailto="aplus@gmail.com">ranaprinting.mnr@gmail.com</a>
+					<p class="postal-address"> 10400 Mahendranagar <br> Kanchanpur, Nepal </p>
+					<p>9805772487 | 9809441156</p>
 
 				</address>
 			</div>
@@ -465,15 +230,18 @@
 				<div>
 					<h3>Social Media</h3>
 					<div class="social-icon">
-						<img src="assets/img/socialMedia/facebook.png">
-						<img src="assets/img/socialMedia/twitter.png">
-						<img src="assets/img/socialMedia/linkedin.png">
+						<img src="assets/img/facebook.png" src="">
+						<img src="assets/img/twitter.png">
+						<img src="assets/img/linkedin.png">
 
 
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
+	<div class="copyright">
+		<p>Rana Printing &copy; <?php echo date("Y"); ?></p>
 	</div>
 </div>
 
