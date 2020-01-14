@@ -168,7 +168,7 @@
 	</div>
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-			<div style="width: 100%"><iframe width="100%" height="400" src="https://maps.google.com/maps?width=100%&height=600&hl=en&q=Dhangadhi%2C%20Kailali+(A%20Plus%20Pvt.%20Ltd)&ie=UTF8&t=&z=14&iwloc=B&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"><a href="https://www.mapsdirections.info/en/journey-planner.htm">Route Finder</a></iframe></div><br />
+			<div style="width: 100%"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.7507937207106!2d80.17865155018205!3d28.965115175615264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a1ade3a7cdce75%3A0x962959efd39e54b3!2sRana%20Printing!5e0!3m2!1sen!2snp!4v1578991788671!5m2!1sen!2snp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div><br />
 
 		</div>
 	</div>
