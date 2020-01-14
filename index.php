@@ -168,7 +168,7 @@
 	</div>
 	<div class="row">
 		<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-			<div style="width: 100%"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.7507937207106!2d80.17865155018205!3d28.965115175615264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a1ade3a7cdce75%3A0x962959efd39e54b3!2sRana%20Printing!5e0!3m2!1sen!2snp!4v1578991788671!5m2!1sen!2snp" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div><br />
+			<div style="width: 100%"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3490.7507937207106!2d80.17865155018205!3d28.965115175615264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39a1ade3a7cdce75%3A0x962959efd39e54b3!2sRana%20Printing!5e0!3m2!1sen!2snp!4v1578991788671!5m2!1sen!2snp" width="1100" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe></div><br />
 
 		</div>
 	</div>
@@ -233,8 +233,8 @@
 				<div>
 					<h3>Social Media</h3>
 					<div class="social-icon">
-						<img src="assets/img/facebook.png" src="">
-						<img src="assets/img/twitter.png">
+						<img src="assets/img/facebook.png" src="https://www.facebook.com/ranaprintingmnr">
+						<img src="assets/img/twitter.png" src="">
 						<img src="assets/img/linkedin.png">
 
 
