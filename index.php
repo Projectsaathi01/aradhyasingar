@@ -200,7 +200,10 @@
       <!-- Your customer chat code -->
       <div class="fb-customerchat"
         attribution=setup_tool
-        page_id="539211486283474">
+        page_id="112732810236277"
+  theme_color="#7646ff"
+  logged_in_greeting="राना प्रिन्टिंगमा तपाईलाई स्वागत छ । कृपया आफ्नो मेसेज छोड्नु होला ।"
+  logged_out_greeting="राना प्रिन्टिंगमा तपाईलाई स्वागत छ । कृपया आफ्नो मेसेज छोड्नु होला ।">
       </div>
 
 	
